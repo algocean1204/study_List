@@ -26,7 +26,7 @@
 | [**AI_Study_LV_ALL_v1**](https://github.com/kimtaekyu1204/AI_Study_LV_ALL_v1) | AI/ML 전체 파이프라인 실습 — 자연어처리(NLP) 전반 학습 정리 | [GitHub](https://github.com/kimtaekyu1204/AI_Study_LV_ALL_v1) |
 | [**Self LLM & Fine-Tuning**](https://github.com/algocean1204/LLM-From-Scratch-and-FineTuning) | 바닥부터 LLM 직접 만들기 + 카카오 모델 HuggingFace 파인튜닝 | [GitHub](https://github.com/algocean1204/LLM-From-Scratch-and-FineTuning) |
 | [**LangChain + MLX Self Study**](https://github.com/MLSamdasu/Langchain-MLX-self-study) | LangChain + Apple Silicon MLX 로컬 LLM 파이프라인 — RAG, Agent, 멀티모델 오케스트레이션 실습 | [GitHub](https://github.com/MLSamdasu/Langchain-MLX-self-study) |
-| [**AI Study with Book**](https://github.com/MLSamdasu-Study) | 책으로 전공 공부하기 챌린지 | [GitHub](https://github.com/MLSamdasu-Study) |
+| [**AI Study with Book**](https://github.com/MLSamdasu-Study) | 책으로 공부한것 정리 묶음 | [GitHub](https://github.com/MLSamdasu-Study) |
 
 ---
 
