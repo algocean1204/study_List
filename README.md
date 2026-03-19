@@ -1,6 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Study%20List&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=%EA%B3%B5%EB%B6%80%ED%95%9C%20%EA%B2%83%EB%93%A4%20%EC%A0%95%EB%A6%AC%ED%95%A8&descSize=18&descAlignY=55)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=280&section=header&text=algocean1204&fontSize=90&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=AI%20Platform%20%26%20Serving%20Engineer&descSize=20&descAlignY=55)
 
 <div align="center">
+
+## 📚 Study List
 
 > 공부한 내용을 카테고리별로 정리한 저장소입니다.
 
