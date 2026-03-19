@@ -14,7 +14,6 @@
 
 <div align="center">
 
-[![AI Colab](https://img.shields.io/badge/AI_Colab-667EEA?style=for-the-badge&logo=googlecolab&logoColor=white)](https://github.com/algocean1204/Study_AI_Colab)
 [![Data Analysis](https://img.shields.io/badge/Data_Analysis-764BA2?style=for-the-badge&logo=pandas&logoColor=white)](https://github.com/algocean1204/Study_AI_DataAnalysis)
 [![NLP](https://img.shields.io/badge/NLP-00D4AA?style=for-the-badge&logo=huggingface&logoColor=white)](https://github.com/kimtaekyu1204/AI_Study_LV_ALL_v1)
 [![LangChain](https://img.shields.io/badge/LangChain+MLX-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)](https://github.com/MLSamdasu/Langchain-MLX-self-study)
@@ -23,7 +22,6 @@
 
 | Repository | Description | Links |
 |:----------:|:------------|:-----:|
-| [**Study_AI_Colab**](https://github.com/algocean1204/Study_AI_Colab) | Google Colab 단축키 정리 | [GitHub](https://github.com/algocean1204/Study_AI_Colab) |
 | [**Study_AI_DataAnalysis**](https://github.com/algocean1204/Study_AI_DataAnalysis) | 데이터 분석 및 시각화 정리 | [GitHub](https://github.com/algocean1204/Study_AI_DataAnalysis) |
 | [**AI_Study_LV_ALL_v1**](https://github.com/kimtaekyu1204/AI_Study_LV_ALL_v1) | AI/ML 전체 파이프라인 실습 — 자연어처리(NLP) 전반 학습 정리 | [GitHub](https://github.com/kimtaekyu1204/AI_Study_LV_ALL_v1) |
 | [**Self LLM & Fine-Tuning**](https://github.com/algocean1204/LLM-From-Scratch-and-FineTuning) | 바닥부터 LLM 직접 만들기 + 카카오 모델 HuggingFace 파인튜닝 | [GitHub](https://github.com/algocean1204/LLM-From-Scratch-and-FineTuning) |
