@@ -30,6 +30,20 @@
 
 ---
 
+## 🏆 Coding Test
+
+<div align="center">
+
+[![Coding Test](https://img.shields.io/badge/CodingTest_Python-FFD700?style=for-the-badge&logo=codewars&logoColor=white)](https://github.com/algocean1204/Study_CodingTest_Python)
+
+</div>
+
+| Repository | Description | Links |
+|:----------:|:------------|:-----:|
+| [**Study_CodingTest_Python**](https://github.com/algocean1204/Study_CodingTest_Python) | 파이썬 자료구조 및 알고리즘 이론과 문제 풀이 | [GitHub](https://github.com/algocean1204/Study_CodingTest_Python) |
+
+---
+
 ## 💬 Language
 
 <div align="center">
@@ -43,20 +57,6 @@
 |:----------:|:------------|:-----:|
 | [**Study_language_Java**](https://github.com/algocean1204/Study_language_Java) | Java 문법 정리 | [GitHub](https://github.com/algocean1204/Study_language_Java) |
 | [**Study_language_Python**](https://github.com/algocean1204/Study_language_Python) | Python 문법 정리 | [GitHub](https://github.com/algocean1204/Study_language_Python) |
-
----
-
-## 🏆 Coding Test
-
-<div align="center">
-
-[![Coding Test](https://img.shields.io/badge/CodingTest_Python-FFD700?style=for-the-badge&logo=codewars&logoColor=white)](https://github.com/algocean1204/Study_CodingTest_Python)
-
-</div>
-
-| Repository | Description | Links |
-|:----------:|:------------|:-----:|
-| [**Study_CodingTest_Python**](https://github.com/algocean1204/Study_CodingTest_Python) | 파이썬 자료구조 및 알고리즘 이론과 문제 풀이 | [GitHub](https://github.com/algocean1204/Study_CodingTest_Python) |
 
 ---
 
